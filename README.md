@@ -1,5 +1,5 @@
 This code is modified from [gym-examples](https://github.com/Farama-Foundation/gym-examples).
-If the name of folder(gym_mrat here) is changed. Change the info in file setip.py, and run command //pip install -e .// to structure our code as a Python package, so that is can be found by gym.
+If the name of folder(gym_mrat here) is changed. Change the info in file setup.py, and run command //pip install -e .// to structure our code as a Python package, so that is can be found by gym.
 
 This repository is no longer maintained, as Gym is not longer maintained and all future maintenance of it will occur in the replacing [Gymnasium](https://github.com/Farama-Foundation/Gymnasium) library. You can contribute Gymnasium examples to the Gymnasium repository and docs directly if you would like to. If you'd like to learn more about the transition from Gym to Gymnasium, you can read more about it [here](https://farama.org/Announcing-The-Farama-Foundation).
 
